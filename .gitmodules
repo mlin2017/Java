@@ -1,3 +1,30 @@
 [submodule "hello_world"]
 	path = hello_world
 	url = https://github.com/mlin11/hello_world.git
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/mlin11/Lab2.git
+[submodule "Lab3"]
+	path = Lab3
+	url = https://github.com/mlin11/Lab3.git
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/mlin11/Lab4.git
+[submodule "Lab5"]
+	path = Lab5
+	url = https://github.com/mlin11/Lab5.git
+[submodule "Lab6"]
+	path = Lab6
+	url = https://github.com/mlin11/Lab6.git
+[submodule "Lab7"]
+	path = Lab7
+	url = https://github.com/mlin11/Lab7.git
+[submodule "Lab9"]
+	path = Lab9
+	url = https://github.com/mlin11/Lab9.git
+[submodule "Lab10"]
+	path = Lab10
+	url = https://github.com/mlin11/Lab10.git
+[submodule "clusterstuff"]
+	path = clusterstuff
+	url = https://github.com/mlin11/clusterstuff.git
